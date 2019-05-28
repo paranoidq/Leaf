@@ -15,7 +15,7 @@ Leaf 最早期需求是各个业务线的订单ID生成需求。在美团早期�
 ## Quick Start
 
 ### Leaf Server
-
+ 
 我们提供了一个基于spring boot的HTTP服务来获取ID
 
 #### 运行Leaf Server
